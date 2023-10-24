@@ -1,8 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-main-page',
-  templateUrl: './main-page.component.html',
+  selector: 'src',
+  templateUrl: './index.html',
   styleUrls: ['./main-page.component.scss'],
 })
 
